@@ -1,0 +1,24 @@
+baseURL: 'https://example.org/'
+languageCode: 'pt-br'
+title: 'onlyatsug'
+theme: 'PaperMod'
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    title: "Gustavo Santana"
+    Content: "Welcome to my blog."
+  socialIcons:
+    - name: email
+      url: "mailto:some@emailadres.com"
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: posts
+    name: Blog
+    url: /posts/
+    weight: 20
