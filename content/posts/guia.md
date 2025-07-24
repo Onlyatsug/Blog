@@ -8,4 +8,4 @@ Para começar a escrever, devo escolher as ferramentas que irão me ajudar nesse
 
 [^1]:**Markdown** é uma simples linguagem de marcação.
 
-[CheatSheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
+[Guia em PDF](https://dl.icdst.org/pdfs/files3/c79990b0b853932d36ddc117ce2503e3.pdf)

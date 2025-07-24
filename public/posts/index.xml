@@ -6,8 +6,18 @@
     <description>Recent content in Posts on onlyatsug</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 22 Jul 2025 13:55:44 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 13:32:52 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O básico de UI/UX Design</title>
+      <link>http://localhost:1313/posts/ui-ux-design/</link>
+      <pubDate>Wed, 23 Jul 2025 13:32:52 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ui-ux-design/</guid>
+      <description>&lt;h2 id=&#34;introdução&#34;&gt;Introdução&lt;/h2&gt;
+&lt;p&gt;Inspirado por revisar conceitos de &lt;strong&gt;UI&lt;/strong&gt;, decidi resumir o &lt;em&gt;&amp;ldquo;processo das coisas&amp;rdquo;&lt;/em&gt; de uma forma simples. Apesar de ser fácil encontrar uma infinidade de conteúdos sobre o assunto, optei por filtrar e sintetizar apenas os de maior qualidade, lembrando que a ideia não é se aprofundar, mas sim possibilitar o entendimento do desenvolvimento de &lt;strong&gt;interfaces gráficas&lt;/strong&gt; — servindo tanto para a web, aplicativos ou até mesmo sistemas robustos.&lt;/p&gt;
+&lt;h3 id=&#34;user-flow&#34;&gt;User Flow&lt;/h3&gt;
+&lt;p&gt;O primeiro passo, após a &lt;strong&gt;análise de requisitos&lt;/strong&gt;, é pensar e demonstrar graficamente o comportamento do usuário ao acessar sua interface.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Um Guia para começar</title>
       <link>http://localhost:1313/posts/guia/</link>

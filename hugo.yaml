@@ -4,13 +4,13 @@ title: 'onlyatsug'
 theme: 'PaperMod'
 
 params:
-  defaultTheme: dark
+  defaultTheme: light
   homeInfoParams:
     title: "Gustavo Santana"
     Content: "Welcome to my blog."
   socialIcons:
     - name: email
-      url: "mailto:some@emailadres.com"
+      url: "mailto:gsb.jmt@gmail.com"
 
 menu:
   main:
